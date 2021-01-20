@@ -1,1 +1,1 @@
-# geolocator
+Geo server uses maxmind
